@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.ayumad.clear-bar",
+  "name": "Clear Bar",
+  "version": "1.0.0",
+  "author": "Ayumad",
+  "description": "Automatically makes the Omarchy bar transparent on empty workspaces and opaque when windows are present.",
+  "kinds": ["service"],
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
